@@ -1,5 +1,7 @@
-# Project Overview  
+# Implementing Just Walk Out Technology in Emart 24
+**Project Duration**: Oct 2021 - Nov 2021<br><br>
 
+## Overview
 This project explores the potential integration of **Amazon Go's Just Walk Out technology** into **Emart 24 convenience stores**, focusing on how retail automation can transform operations and customer experiences in South Korea's competitive convenience store market.  
 
 ## Key Focus Areas  
