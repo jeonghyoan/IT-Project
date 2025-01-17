@@ -1,25 +1,32 @@
-# Implementing Just Walk Out Technology in Emart 24
-**Project Duration**: Oct 2021 - Nov 2021<br><br>
+# Enhancing Business Processes at Market Kurly
+**Project Period**: Nov 2022<br><br>
 
-## Overview
-This project explores the potential integration of **Amazon Go's Just Walk Out technology** into **Emart 24 convenience stores**, focusing on how retail automation can transform operations and customer experiences in South Korea's competitive convenience store market.  
-
-## Key Focus Areas  
-
-1. **Environmental Analysis**  
-   - Explore technological trends and market dynamics for unmanned convenience store technology in South Korea.
-
-    
-2. **Cost and Benefit Analysis**  
-   - Evaluate the financial implications of adopting the technology, including:  
-     - Initial investment costs  
-     - Ongoing operational expenses  
-     - Potential revenue growth and operational efficiencies
-
-  
-3. **AHP Analysis**  
-   - Utilize the **Analytical Hierarchy Process (AHP)** to weigh the costs and benefits, offering a structured decision-making framework
+## 🛒 Overview
+This project focuses on analyzing and improving the business processes of **Market Kurly**, a leading online fresh food vendor in South Korea. 
 
 ---
 
-Through this analysis, we aim to deliver actionable insights on the feasibility, profitability, and operational impact of adopting retail automation technologies like Just Walk Out.
+## 📌 Key Components
+
+1. **Company Analysis**
+2. **Organizational Structure**
+3. **Business Process Analysis**
+4. **As-Is Analysis**
+5. **Process Mapping**
+6. **Information Systems Evaluation**
+7. **To-Be Analysis**
+8. **Benefits and ROI Assessment**
+
+---
+
+## 💡 Proposed Improvement: Small Zone for Picking Process
+
+### 🔍 Current Issue
+The existing **DAS(Digital Assortment System)** processes 200 orders simultaneously, which can lead to inefficiencies, especially when multiple orders contain only one item.
+
+### 🛠️ Solution: Small Zone Implementation
+We propose creating a **Small Zone** dedicated to handling single-product orders.
+
+---
+
+Explore our findings and recommendations to understand how Market Kurly can enhance its operations!
