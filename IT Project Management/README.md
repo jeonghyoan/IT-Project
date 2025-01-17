@@ -1,4 +1,4 @@
-# Seoultech GO Project
+# Seoultech GO 
 **Project Period**: Mar 2023
 
 ## Overview  
