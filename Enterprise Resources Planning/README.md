@@ -1,12 +1,12 @@
 # Enhancing Business Processes at Market Kurly
 **Project Period**: Nov 2022<br><br>
 
-## 🛒 Overview
+## Overview
 This project focuses on analyzing and improving the business processes of **Market Kurly**, a leading online fresh food vendor in South Korea. 
 
 ---
 
-## 📌 Key Components
+## Components
 
 1. **Company Analysis**
 2. **Organizational Structure**
@@ -19,14 +19,12 @@ This project focuses on analyzing and improving the business processes of **Mark
 
 ---
 
-## 💡 Proposed Improvement: Small Zone for Picking Process
+## Proposed Improvement: Small Zone for Picking Process
 
-### 🔍 Current Issue
+### Current Issue
 The existing **DAS(Digital Assortment System)** processes 200 orders simultaneously, which can lead to inefficiencies, especially when multiple orders contain only one item.
 
-### 🛠️ Solution: Small Zone Implementation
+### Solution: Small Zone Implementation
 We propose creating a **Small Zone** dedicated to handling single-product orders.
 
 ---
-
-Explore our findings and recommendations to understand how Market Kurly can enhance its operations!
